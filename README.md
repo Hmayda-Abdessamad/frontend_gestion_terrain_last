@@ -21,7 +21,7 @@ concernant nos acteurs , notre application est dédié à un administrateur qui 
         
             1-Clone the repository :
             
-            git clone https://github.com/Hmayda-Abdessamad/Terrain.git
+            git clone https://github.com/Hmayda-Abdessamad/frontend_gestion_terrain_last
             
             2-Install the dependencies:
             npm install
