@@ -1,7 +1,13 @@
 # Gestion-des-terrain_web
-1- Gestion Des Terrains : est une application coté web et mobile, qui permet la gestion des terrains, création des terrains et les catégoriser par villes et zones.
-                       Ainsi qu'elle permet la reservation des terrains et la gestion de ces réservation.
-                       Les terrains seront affiché dans une map avec la possibilité d'afficher la distance entre le client et le plus proche terrain ainsi que l'itinéraire.
+1- Gestion Des Terrains : est une application qui peut etre utilisé dans le web et  egalement dans le mobile , cette application  permet la gestion des terrains :CRUD ,de telle facon que les terrain appartien  une zone , la quelle appartient également à une seule ville, d'autre part une ville peut avoir plusiurs zones et plusieurs terrains peuvent etre à la fois dans la meme zone . Egalement on a les clubs qui peuvent avoir plusiers  terrain et en contre partie un terrain appartient à un seul ckub
+
+concernant nos acteurs , notre application est dédié à un administrateur qui peut gerer ces processus métiers et un clinet qui aura la posibilité de réserver un terrain et meme benefier des promotions graces aux pack offerts par l'administraur .
+
+
+                      
+ cette repo est dédié à la partie web de ce projet , dans cette partie on a choisi react pour le frontend et spring boot pour le backend , ces deux xommuniquent grace  à axios ou temps en temps on a utilisé l 'api fetch        
+ 
+ 
 
 2- Getting Started :
 
